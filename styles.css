@@ -1,0 +1,21 @@
+* {
+    background-color: #FEFAE0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    text-align: center;
+}
+
+h1, h2, h3 {
+    font-weight: bolder;
+    color: #774936;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ol {
+    list-style-position: inside;
+}
